@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi there, I'm Vinit 👋
 
-<!--
-**vinit765/vinit765** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Objective:
+Seeking a platform to apply my technical skills, enthusiasm for learning, and problem-solving abilities to contribute to impactful projects.
 
-Here are some ideas to get you started:
+💡 About Me:
+🔹 Artificial Intelligence & Data Science Enthusiast
+🔹 Passionate about building AI-driven solutions and exploring real-world applications of machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Technical Skills:
+✔️ Programming: C, Python3, R
+✔️ Machine Learning & Data Science
+✔️ Natural Language Processing (NLP)
+✔️ Firebase (Google) & MongoDB
+
+🌐 Connect With Me:
+🔗 LinkedIn :- https://www.linkedin.com/in/vinit-chaudhary-a04070281/
+💻 GitHub :- 
+
+📌 Let's Collaborate!
+I’m always open to collaborating on AI, ML, and data-driven projects. Feel free to connect! 🚀
