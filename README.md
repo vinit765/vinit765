@@ -15,7 +15,6 @@ Seeking a platform to apply my technical skills, enthusiasm for learning, and pr
 
 🌐 Connect With Me:
 🔗 LinkedIn :- https://www.linkedin.com/in/vinit-chaudhary-a04070281/
-💻 GitHub :- 
 
 📌 Let's Collaborate!
 I’m always open to collaborating on AI, ML, and data-driven projects. Feel free to connect! 🚀
